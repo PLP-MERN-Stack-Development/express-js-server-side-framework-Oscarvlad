@@ -1,0 +1,15 @@
+# Environment variables - PROTECT YOUR API KEYS!
+.env
+
+# Node modules - DON'T COMMIT THESE!
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Runtime files
+*.pid
